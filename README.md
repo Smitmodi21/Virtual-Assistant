@@ -7,7 +7,7 @@ Have you ever wondered how cool it would be to have your own A.I. assistant? Ima
 3. It can do Wikipedia searches for you.
 4. It is capable of opening websites like Google, Youtube, etc., in a web browser.
 5. It is capable of opening your code editor or IDE with a single voice command.
-6. News Report Headlines
+6. News Report Headlines.
 7. Open and tweet in twitter with speech recognition.
 8. Closing and opening current window as well as CMD.
 9. Gives information about current Weather.
