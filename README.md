@@ -8,16 +8,16 @@ Have you ever wondered how cool it would be to have your own A.I. assistant? Ima
 4. It is capable of opening websites like Google, Youtube, etc., in a web browser.
 5. It is capable of opening your code editor or IDE with a single voice command.
 6. News Report Headlines
-7. Open and tweet in twitter with speech recognition
-8. Closing and opening current window as well as CMD
-9. Gives information about current Weather
+7. Open and tweet in twitter with speech recognition.
+8. Closing and opening current window as well as CMD.
+9. Gives information about current Weather.
 10. Open instagram ,search for user and it can download  profile picture of other users .
 11. This project can empty devices recycle bin.
-12. Play Music from the local drive
-13. Open and search in youtube
-14. Sending messages through whatsapp web
-15. Location report
-And many more
+12. Play Music from the local drive.
+13. Open and search in youtube.
+14. Sending messages through whatsapp web.
+15. Location report.
+And many more.
 
 ## Requirements
 The first and foremost thing for an A.I. assistant is that it should be able to speak. To make our virtual assistant talk, we will make a function. This function will take audio as an argument, and then it will pronounce it.
