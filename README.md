@@ -34,7 +34,11 @@ It works offline, and it is compatible with Python 2 as well as Python 3.
 ```python
 $ pip install pyttsx3
 ```
+###Model Decision
+![desicion_model](https://user-images.githubusercontent.com/60734815/178565924-114bf58f-fb11-4f0c-b5e4-68b2668502a5.png)
+
 
 The next most important thing for our A.I. assistant is that it should take command with the help of the microphone of the user's system. So, now we will make a take Command function.  With the help of the take Command function, our A.I. assistant will return a string output by taking microphone input from the user.
 
 Note: Do not forget to 'enable the less secure apps' feature in your Gmail account. Otherwise, the automatic send Email function will not work properly.
+
