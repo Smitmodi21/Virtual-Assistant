@@ -17,6 +17,7 @@ Have you ever wondered how cool it would be to have your own A.I. assistant? Ima
 13. Open and search in youtube.
 14. Sending messages through whatsapp web.
 15. Location report.
+
 And many more.
 
 ## Requirements
